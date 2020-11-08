@@ -52,7 +52,7 @@
 
 :zap: GitHub Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jowjow22&show_icons=true&hide_border=true" />
+  <img align="left" alt="jowjow22's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jowjow22&show_icons=true&hide_border=true" />
 
 
 [website]: https://codeSTACKr.com
