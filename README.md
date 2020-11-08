@@ -17,6 +17,10 @@
 
 [<img align="left" alt="_𝐸𝓂𝓅𝓉𝓎 𝐹𝑒𝑒𝓁𝒾𝓃𝑔𝓈_" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/soundcloud.svg" /> _𝐸𝓂𝓅𝓉𝓎 𝐹𝑒𝑒𝓁𝒾𝓃𝑔𝓈_][soundcloud]
 
+### Commercial contacts:
+
+[<img align="left" alt="jowjow22 | Gmail" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/gmail.svg" />][gmail]
+
 ### Connect with me:
 
 [<img align="left" alt="jowjow22 | Facebook" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/facebook.svg" />][facebook]
@@ -64,4 +68,4 @@
 [repos]: https://github.com/jowjow22?tab=repositories
 [soundcloud]: https://soundcloud.com/jonathan-santos-68869299/sets/empty-feelings
 [discord]: https://discordapp.com/users/535507059609960453
-
+[gmail]: jonathanSantos.contact@gmail.com
