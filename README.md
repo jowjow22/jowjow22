@@ -17,13 +17,13 @@
 
 [<img align="left" alt="_𝐸𝓂𝓅𝓉𝓎 𝐹𝑒𝑒𝓁𝒾𝓃𝑔𝓈_" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/soundcloud.svg" /> _𝐸𝓂𝓅𝓉𝓎 𝐹𝑒𝑒𝓁𝒾𝓃𝑔𝓈_][soundcloud]
 
-### Commercial contacts 📞:
+### Commercial contacts 📞
 
 [<img align="left" alt="jowjow22 | Gmail" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/gmail.svg" />][gmail]
 
 <br />
 
-### Connect with me 📡:
+### Connect with me 📡
 
 [<img align="left" alt="jowjow22 | Facebook" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/facebook.svg" />][facebook]
 [<img align="left" alt="jowjow22 | Twitter" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/twitter.svg" />][twitter]
