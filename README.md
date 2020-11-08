@@ -15,12 +15,13 @@
 
 ### SoundCloud Lo-fi Playlist 🎧
 
-[<a href="https://codesandbox.io/u/anuraghazra"><img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/soundcloud.svg" /></a> _𝐸𝓂𝓅𝓉𝓎 𝐹𝑒𝑒𝓁𝒾𝓃𝑔𝓈_][soundcloud]
+[<img align="left" alt="_𝐸𝓂𝓅𝓉𝓎 𝐹𝑒𝑒𝓁𝒾𝓃𝑔𝓈_" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/soundcloud.svg" /> _𝐸𝓂𝓅𝓉𝓎 𝐹𝑒𝑒𝓁𝒾𝓃𝑔𝓈_][soundcloud]
 
 ### Connect with me:
 
-[<img align="left" alt="jowjow22 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="jowjow22 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jowjow22 | Facebook" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/facebook.svg" />][facebook]
+[<img align="left" alt="jowjow22 | Twitter" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/twitter.svg" />][twitter]
+[<img align="left" alt="jowjow22 | Twitter" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/discord.svg" />][discord]
 <!-- [<img align="left" alt="jowjow22 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
@@ -63,4 +64,5 @@
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [repos]: https://github.com/jowjow22?tab=repositories
 [soundcloud]: https://soundcloud.com/jonathan-santos-68869299/sets/empty-feelings
+[discord]: https://discordapp.com/users/535507059609960453
 
