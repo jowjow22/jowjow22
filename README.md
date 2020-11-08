@@ -56,12 +56,11 @@
   <img align="left" alt="jowjow22's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jowjow22&show_icons=true&hide_border=true" />
 
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+
+[twitter]: https://twitter.com/jowjow223
 [facebook]: https://www.facebook.com/profile.php?id=100009708458157
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+<!-- [instagram]: https://instagram.com/jonilhos
+[linkedin]: https://linkedin.com/in/codeSTACKr -->
 [repos]: https://github.com/jowjow22?tab=repositories
 [soundcloud]: https://soundcloud.com/jonathan-santos-68869299/sets/empty-feelings
 [discord]: https://discordapp.com/users/535507059609960453
