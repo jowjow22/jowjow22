@@ -1,6 +1,6 @@
 ### Hi there, I'm Jonathan 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=jowjow223)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jowjow223?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=jowjow223)
 
 ## I'm a TI Student on ETEC from Peruíbe - SP and FullStack developer.
 
@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.jowjow22.vercel.app/api/spotify-playing" alt="Jonathan Silva Spotify Playing" width="350" />](https://open.spotify.com/user/22oymhrez4nput5ccoidu4tui)
+[<img src="https://novatorem.jowjow22.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/22oymhrez4nput5ccoidu4tui)
 
 ### SoundCloud Lo-fi Playlist 🎧
 
@@ -25,8 +25,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
@@ -47,7 +47,7 @@
 
 
 
-###:zap: GitHub Stats
+:zap: GitHub Stats
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jowjow22&show_icons=true&hide_border=true" />
 
