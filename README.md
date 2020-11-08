@@ -15,7 +15,7 @@
 
 ### SoundCloud Lo-fi Playlist 🎧
 
-[<img align="left" alt="_𝐸𝓂𝓅𝓉𝓎 𝐹𝑒𝑒𝓁𝒾𝓃𝑔𝓈_" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/soundcloud.svg" /> _𝐸𝓂𝓅𝓉𝓎 𝐹𝑒𝑒𝓁𝒾𝓃𝑔𝓈_][soundcloud]
+[<img align="left" alt="_𝐸𝓂𝓅𝓉𝓎 𝐹𝑒𝑒𝓁𝒾𝓃𝑔𝓈_" width="22px" style="margin-top: 3px;" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/soundcloud.svg" /> _𝐸𝓂𝓅𝓉𝓎 𝐹𝑒𝑒𝓁𝒾𝓃𝑔𝓈_][soundcloud]
 
 ### Connect with me:
 
