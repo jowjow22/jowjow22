@@ -15,6 +15,8 @@
 
 ### SoundCloud Lo-fi Playlist 🎧
 
+[<img align="left" alt="jowjow22 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />][soundcloud] - _𝐸𝓂𝓅𝓉𝓎 𝐹𝑒𝑒𝓁𝒾𝓃𝑔𝓈_
+
 ### Connect with me:
 
 [<img align="left" alt="jowjow22 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -59,4 +61,5 @@
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [repos]: https://github.com/jowjow22?tab=repositories
+[soundcloud]: https://soundcloud.com/jonathan-santos-68869299/sets/empty-feelings
 
