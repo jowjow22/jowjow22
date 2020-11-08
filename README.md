@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jowjow223?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=jowjow223)
 
-[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"><script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/js/all.min.js"></script>]
+
 
 ## I'm a TI Student on ETEC from Peruíbe - SP and FullStack developer.
 
@@ -17,7 +17,7 @@
 
 ### SoundCloud Lo-fi Playlist 🎧
 
-[<i class="fab fa-soundcloud" color="#FF3300"></i> _𝐸𝓂𝓅𝓉𝓎 𝐹𝑒𝑒𝓁𝒾𝓃𝑔𝓈_][soundcloud]
+[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"><i class="fab fa-soundcloud" color="#FF3300"></i><script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/js/all.min.js"></script> 𝐸𝓂𝓅𝓉𝓎 𝐹𝑒𝑒𝓁𝒾𝓃𝑔𝓈][soundcloud]
 
 ### Connect with me:
 
