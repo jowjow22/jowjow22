@@ -17,11 +17,13 @@
 
 [<img align="left" alt="_𝐸𝓂𝓅𝓉𝓎 𝐹𝑒𝑒𝓁𝒾𝓃𝑔𝓈_" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/soundcloud.svg" /> _𝐸𝓂𝓅𝓉𝓎 𝐹𝑒𝑒𝓁𝒾𝓃𝑔𝓈_][soundcloud]
 
-### Commercial contacts:
+### Commercial contacts 📞:
 
 [<img align="left" alt="jowjow22 | Gmail" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/gmail.svg" />][gmail]
 
-### Connect with me:
+<br />
+
+### Connect with me 📡:
 
 [<img align="left" alt="jowjow22 | Facebook" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/facebook.svg" />][facebook]
 [<img align="left" alt="jowjow22 | Twitter" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/twitter.svg" />][twitter]
@@ -30,7 +32,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools ⚙:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][repos]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][repos]
