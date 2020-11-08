@@ -15,7 +15,7 @@
 
 ### SoundCloud Lo-fi Playlist 🎧
 
-[<img align="left" alt="jowjow22 | Soundcloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" /> _𝐸𝓂𝓅𝓉𝓎 𝐹𝑒𝑒𝓁𝒾𝓃𝑔𝓈_][soundcloud]
+[<a href="https://codesandbox.io/u/anuraghazra"><img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/soundcloud.svg" /></a> _𝐸𝓂𝓅𝓉𝓎 𝐹𝑒𝑒𝓁𝒾𝓃𝑔𝓈_][soundcloud]
 
 ### Connect with me:
 
