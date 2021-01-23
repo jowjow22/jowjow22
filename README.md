@@ -2,9 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jowjow223?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=jowjow223)
 
-## I'm a TI Student on ETEC from Peruíbe - SP and FullStack developer.
+## I'm a TI graduated on ETEC from Peruíbe - SP and FullStack developer.
 
-- 🌱 I’m currently learning Node.js, ReactJS and React Native 
+- 🌱 I’m currently learning Node.js, ReactJS, TypeScript and React Native
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Facts about me: I'm learning piano and studying design 
