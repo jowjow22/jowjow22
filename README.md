@@ -17,7 +17,7 @@
 ### Connect with me 📡
 
 [<img align="left" alt="jowjow22 | Twitter" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/discord.svg" />][discord]
-[<img align="left" alt="jowjow22 | Twitter" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="jowjow22 | Twitter" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/linkedin.png" />][linkedin]
 
 <br />
 
