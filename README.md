@@ -1,6 +1,5 @@
 ### Hi there, I'm Jonathan 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jowjow223?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=jowjow223)
 
 ## I'm a fullstack developer and Computer Technician graduated on ETEC from Peruíbe - SP. <br /> Currently i'm studying computer science at the Federal Technological University of Paraná.
 
