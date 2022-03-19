@@ -40,7 +40,7 @@
 
 ---
 
-[![Jonathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=jowjow22)](https://github.com/anuraghazra/github-readme-stats)
+[![Jonathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=jowjow22&count_private=true)](https://github.com/jowjow22/github-readme-stats)
 
 [repos]: https://github.com/jowjow22?tab=repositories
 [discord]: https://discordapp.com/users/535507059609960453
