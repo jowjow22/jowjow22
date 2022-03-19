@@ -40,6 +40,8 @@
 
 ---
 
+[![Jonathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=jowjow22)](https://github.com/anuraghazra/github-readme-stats)
+
 [repos]: https://github.com/jowjow22?tab=repositories
 [discord]: https://discordapp.com/users/535507059609960453
 [linkedin]: https://www.linkedin.com/in/jonathan-santos-453a641b4/
