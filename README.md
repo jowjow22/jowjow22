@@ -3,7 +3,7 @@
 
 ## I'm a fullstack developer and Computer Technician graduated on ETEC from Peruíbe - SP. <br /> Currently i'm studying computer science at the Federal Technological University of Paraná.
 
-- 🌱 I’m currently learning Node.js, ReactJS, TypeScript, React Native and VueJS.
+- 🌱 I’m currently learning Node.js, ReactJS, TypeScript, Next/NuxtJS and VueJS.
 - 👯 I’m looking to collaborate with other developers and open source projects.
 - 🥅 2022 Goals: Contribute more to Open Source projects and improve my skills.
 
@@ -13,8 +13,7 @@
 
 ### Connect with me 📡
 
-[<img align="left" alt="jowjow22 | Twitter" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/discord.svg" />][discord]
-[<img align="left" alt="jowjow22 | Twitter" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/linkedin.png" />][linkedin]
+[<img align="left" alt="jowjow22 | Linkedin" width="22px" src="https://raw.githubusercontent.com/jowjow22/jowjow22/master/assets/linkedin.png" />][linkedin]
 
 <br />
 
